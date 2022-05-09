@@ -1,3 +1,4 @@
 # chaofeng_01
 这是一个调用了百度人工智能api接口的一个可增强图片分辨率的项目
-在官网创建应用后，运行apply.py会得到两个值，分别是官网的SK和AD，这两个值在main.py中会用到
+在官网创建应用后，运行apply.py要修改两个值，分别是官网的SK和AK，得到你自己的access_token
+复制access_token到main.py中修改相应的值，运行main.py即可
